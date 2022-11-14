@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20profile!&height=160&fontColor=ffffff)
 
-I'm a Engineering Physics graduate at University of Porto, ready to begin my Master's degree focusing on Optics. I am also interested in Machine Learning and Artificial Intelligence.
-
-# Current projects
-
-Currently, I'm in an Internship with INESC TEC centered arround automation of optical tweezer systems. There, I've been developing an algorithm for automatizing the optical trapping procedure.
+I'm currently enrolled at a Master's degree in Engineering Physics. My main interest is optics & photonics, more specifically strategies to apply it to computation. 
 
 # Past projects
 
 - EESC TECH Chalange 2022 Hackathon (Local Round)
-  - Our team developed machine learning solutions for automatic color palette generation based in image and text inputs, which was deployed as a website. We achieved the 2nd place!
- 
+  - Our team developed machine learning solutions for automatic color palette generation based in image and text inputs, which was deployed as a website. We placed 2nd!
+
+- INESC TEC Interships
+  - Curricular Internship: Automatized a optical tweezer system, by developing an algorithm for particle detection & deploying it with a GUI
+  - Summer Internship: Studied techniques for light modulation, employing it as an encoding method for optical computing, with applications to Machine Learning
+
+
 - Microcontroller projects
   - Developed a PID controller for automatic balancing of a simplified drone model, using a ESP32 board and Micropython
   - Developed a prototype for a web application for assisting visually impaired people, using a color sensor to obtain text-to-speech color measurements
