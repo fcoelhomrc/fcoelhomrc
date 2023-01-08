@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20profile!&height=160&fontColor=ffffff)
 
-I'm currently enrolled at a Master's degree in Engineering Physics. My main interest is optics & photonics, more specifically strategies to apply it to computation. 
+I'm currently enrolled at a Master's degree in Engineering Physics, and an assistant researcher at INESC-TEC's Center of Applied Photonics. My main interest is optics & photonics, more specifically I study strategies to apply these concepts to computation. 
 
 # Past projects
 
@@ -11,9 +11,9 @@ I'm currently enrolled at a Master's degree in Engineering Physics. My main inte
   - Curricular Internship: Automatized a optical tweezer system, by developing an algorithm for particle detection & deploying it with a GUI
   - Summer Internship: Studied techniques for light modulation, employing it as an encoding method for optical computing, with applications to Machine Learning
 
-
-- Microcontroller projects
+- Curricular projects
   - Developed a PID controller for automatic balancing of a simplified drone model, using a ESP32 board and Micropython
   - Developed a prototype for a web application for assisting visually impaired people, using a color sensor to obtain text-to-speech color measurements
-  
-- Programmed a solver for Schrödinger equation using finite difference methods, allowing for visualization of the classical double-slit experience 
+  - Developed a solver for Schrödinger equation using finite difference methods, allowing for simulation of 2D wavefunction propagation
+  - Took on the [https://www.kaggle.com/datasets/puneet6060/intel-image-classification](Intel Natural Image Classification Challange), with clustering and semi-supervised approaches
+  - Performed unsupervised anomaly detection with the [https://www.mvtec.com/company/research/datasets/mvtec-ad](MVTec Dataset), with several Deep Learning approaches including autoencoders, GANs, and Vision Transformers
