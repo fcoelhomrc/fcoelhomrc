@@ -15,5 +15,5 @@ I'm currently enrolled at a Master's degree in Engineering Physics, and an assis
   - Developed a PID controller for automatic balancing of a simplified drone model, using a ESP32 board and Micropython
   - Developed a prototype for a web application for assisting visually impaired people, using a color sensor to obtain text-to-speech color measurements
   - Developed a solver for Schrödinger equation using finite difference methods, allowing for simulation of 2D wavefunction propagation
-  - Took on the [https://www.kaggle.com/datasets/puneet6060/intel-image-classification](Intel Natural Image Classification Challange), with clustering and semi-supervised approaches
-  - Performed unsupervised anomaly detection with the [https://www.mvtec.com/company/research/datasets/mvtec-ad](MVTec Dataset), with several Deep Learning approaches including autoencoders, GANs, and Vision Transformers
+  - Took on the [Intel Natural Image Classification Challange](https://www.kaggle.com/datasets/puneet6060/intel-image-classification), with clustering and semi-supervised approaches
+  - Performed unsupervised anomaly detection with the [MVTec Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad), with several Deep Learning approaches including autoencoders, GANs, and Vision Transformers
