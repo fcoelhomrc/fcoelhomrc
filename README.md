@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20profile!&height=160&fontColor=ffffff)
 
-I'm currently enrolled at a Master's degree in Engineering Physics, and an assistant researcher at INESC-TEC's Center of Applied Photonics. My main interest is optics & photonics, more specifically I study strategies to apply these concepts to computation. 
+I'm currently enrolled at a Master's degree in Engineering Physics, and a [research assistant](https://www.inesctec.pt/pt/pessoas/felipe-coelho-moreira#additional_information) at INESC-TEC's Center of Applied Photonics. My main interest is optics & photonics, more specifically I study strategies to apply these concepts to computation. 
 
 # Past projects
 
